@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.exe
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.deps.json
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.runtimeconfig.json
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.runtimeconfig.dev.json
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.dll
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\ref\SingletoneNaive.dll
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\bin\Debug\net5.0\SingletoneNaive.pdb
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.AssemblyInfo.cs
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.dll
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\ref\SingletoneNaive.dll
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.pdb
+C:\Users\User\source\repos\DesighnPatterns\SingletoneNaive\obj\Debug\net5.0\SingletoneNaive.genruntimeconfig.cache
