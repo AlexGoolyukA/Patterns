@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "czfZ2JJciZ3ArPR6QspLn156HaqXdeedQZG8zUMQ4z9R0WCap2v+RbBiQa15pNZrV+QuNO8n6HPbdRtSf0U2ag==",
+  "dgSpecHash": "h4izvG2spxLrLu3EyJxptNVM8oMfS9/xYPbkd2GRG7VE7bDUb9uHXJvILhY7X1Iu+nuYOVXElR0c+TKXgcg2fw==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\DesighnPatterns\\SingletonMultithread\\SingletonMultithread.csproj",
   "expectedPackageFiles": [],
